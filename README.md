@@ -6,20 +6,17 @@ Welcome to my GitHub portfolio! I am, a passionate and dedicated Software Engine
 1. Drowsiness Detection
 Repository: drowsiness-detection
 
-Overview
 This project aims to enhance road safety by detecting driver drowsiness in real-time. The system uses a combination of computer vision techniques and deep learning models to monitor and analyze the driver's eye movements and facial expressions.
 
 
 2. Object Detection
 Repository: object-detection
 
-Overview
 This project focuses on detecting and classifying objects in images and videos using state-of-the-art deep learning models. It employs YOLO (You Only Look Once) and Faster R-CNN algorithms for high accuracy and speed.
 
 3. Depth Estimation
 Repository: depth-estimation
 
-Overview
 This project involves estimating the depth of objects in a scene from a single image using deep learning techniques. It helps in applications such as 3D reconstruction, autonomous driving, and augmented reality.
 
 # 💬 About Me
