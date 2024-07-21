@@ -11,6 +11,7 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
 
 2. Object Detection
 Repository: object-detection
+![drowsiness_detection](https://github.com/user-attachments/assets/fb3cb024-a5fd-4e8a-a2d0-1ac3bdb4a2cb)
 
 This project focuses on detecting and classifying objects in images and videos using state-of-the-art deep learning models. It employs YOLO (You Only Look Once) and Faster R-CNN algorithms for high accuracy and speed.
 
